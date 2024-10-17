@@ -1,1 +1,1 @@
-These are my beginner level HTML projects.
+These are my beginner level website projects.
